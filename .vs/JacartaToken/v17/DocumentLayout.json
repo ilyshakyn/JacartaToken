@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\source\\repos\\JacartaToken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE145DB2-BEF8-4E37-9282-76DDDC4DC427}|JaCarta_n4\\JaCarta_n4.csproj|c:\\users\\user\\source\\repos\\jacartatoken\\jacarta_n4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE145DB2-BEF8-4E37-9282-76DDDC4DC427}|JaCarta_n4\\JaCarta_n4.csproj|solutionrelative:jacarta_n4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{087C1717-3E37-49C0-8CCD-C6681EFECCA1}|JaCarta_n3\\JaCarta_n3.csproj|c:\\users\\user\\source\\repos\\jacartatoken\\jacarta_n3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{087C1717-3E37-49C0-8CCD-C6681EFECCA1}|JaCarta_n3\\JaCarta_n3.csproj|solutionrelative:jacarta_n3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A90986AA-F80F-4575-81C3-BA98B22FC1D3}|Jacarta_n2\\Jacarta_n2.csproj|c:\\users\\user\\source\\repos\\jacartatoken\\jacarta_n2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A90986AA-F80F-4575-81C3-BA98B22FC1D3}|Jacarta_n2\\Jacarta_n2.csproj|solutionrelative:jacarta_n2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{726A58CD-8B3B-4FC3-A619-4E43D5522FF3}|JacartaToken\\JacartaToken.csproj|c:\\users\\user\\source\\repos\\jacartatoken\\jacartatoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{726A58CD-8B3B-4FC3-A619-4E43D5522FF3}|JacartaToken\\JacartaToken.csproj|solutionrelative:jacartatoken\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JacartaToken\\JaCarta_n4\\Program.cs",
+              "RelativeDocumentMoniker": "JaCarta_n4\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JacartaToken\\JaCarta_n4\\Program.cs",
+              "RelativeToolTip": "JaCarta_n4\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:40:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JacartaToken\\JaCarta_n3\\Program.cs",
+              "RelativeDocumentMoniker": "JaCarta_n3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JacartaToken\\JaCarta_n3\\Program.cs",
+              "RelativeToolTip": "JaCarta_n3\\Program.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAIwF4AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:38:49.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JacartaToken\\Jacarta_n2\\Program.cs",
+              "RelativeDocumentMoniker": "Jacarta_n2\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JacartaToken\\Jacarta_n2\\Program.cs",
+              "RelativeToolTip": "Jacarta_n2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAD0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:36:20.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\source\\repos\\JacartaToken\\JacartaToken\\Program.cs",
+              "RelativeDocumentMoniker": "JacartaToken\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\source\\repos\\JacartaToken\\JacartaToken\\Program.cs",
+              "RelativeToolTip": "JacartaToken\\Program.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAwwMkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T07:32:59.304Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
